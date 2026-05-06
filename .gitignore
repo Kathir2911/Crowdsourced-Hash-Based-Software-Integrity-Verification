@@ -90,8 +90,8 @@ browser-extension/*.tsbuildinfo
 # Kiro IDE
 # ============================================
 
-# Keep Kiro configuration
-!.kiro/
+# Keep Kiro specs and configuration - these should be in Git
+# .kiro/ folder is intentionally tracked
 
 # ============================================
 # Temporary files
